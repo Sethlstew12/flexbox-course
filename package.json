@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
